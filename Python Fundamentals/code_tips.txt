@@ -1,0 +1,3 @@
+-use simple function and variable names
+-comment code
+-organize code into functions
